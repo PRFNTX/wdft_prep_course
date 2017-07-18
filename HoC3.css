@@ -1,0 +1,25 @@
+div {
+	background-color:red;
+	margin:1px;
+	border:0px;
+	height:150px;
+	width:150px;
+}
+
+#row1 {
+	
+	display:inline-block;
+}
+
+.row2 {
+		float:left;
+}
+
+.row3 {
+	background-color:red;
+	margin:1px;
+	border:0px;
+	height:150px;
+	width:150px;
+	position:relative;
+}
