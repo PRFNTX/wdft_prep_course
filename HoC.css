@@ -1,0 +1,28 @@
+#greyBox{
+	margin:30px;
+	border:2px dotted white;
+	padding:10px 20px;
+	background-color:darkgrey;
+	width:200;
+	height:110;
+	color:whitesmoke;
+	font-family: "Arial",Arial,Sans-Serif;
+	font-size:14;
+	line-height: 22px;
+
+	
+}
+
+#border {
+	margin:4px;
+	border:0px;
+	padding:10px;
+	background-color:lightgrey;
+}
+
+#padding {
+	margin:4px;
+	border:10px solid lightgrey;
+	padding:0px;
+	background-color:lightgrey;
+}
