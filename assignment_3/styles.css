@@ -29,41 +29,65 @@ div
 
 /* FIRST ROW : FLOATS; */
 .a1 {
+	float:right;
 }
 
 .b1 {
+	float:left;
 }
 
 .c1 {
+	float:right
 }
 
 .d1 {
+	float:left;
 }
 
 /* SECOND ROW : DISPLAY */
 
 .a2 {
+	display:inline-block;
 }
 
 .b2 {
+	display:none;
+
 }
 
 .c2 {
+	height:20px;
+	width:20px;
+	display:inline-block;
 }
 
 .d2 {
+	display:block;
 }
 
 /* THIRD ROW : POSITION */
 
 .a3 {
+	position:relative;
+	top:0px;
+	left:0px;
 }
 
 .b3 {
+	position:absolute;
+	left:165px;
+	top:400px;
 }
 
 .c3 {
+	position:absolute;
+	left:600px;
+	top:500px;
 }
 
 .d3 {
+	position:absolute;
+	top:300px;
+	left:315px;
+
 }
